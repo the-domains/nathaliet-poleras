@@ -12,3 +12,7 @@ color:
     - '#9FB4CC'
     - '#DB4105'
 name: nathaliet poleras
+navigation:
+  - name: Home
+    url: 'http://thegrid.ai/nathaliet/'
+    type: external
