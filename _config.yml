@@ -18,6 +18,9 @@ navigation:
   - name: Home
     url: 'http://thegrid.ai/nathaliet/'
     type: external
+  - name: Bodys
+    url: 'https://thegrid.ai/nathaliet-body/'
+    type: external
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
     type: external
@@ -26,9 +29,6 @@ navigation:
     type: external
   - name: Vestidos
     url: 'https://thegrid.ai/nathaliet-vestidos'
-    type: external
-  - name: Bodys
-    url: 'https://thegrid.ai/nathaliet-body/'
     type: external
   - name: Trajes de Baño
     url: 'https://thegrid.ai/nathaliet-trajes-de-bano/'
